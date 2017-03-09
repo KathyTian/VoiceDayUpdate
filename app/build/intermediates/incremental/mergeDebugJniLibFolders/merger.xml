@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/jniLibs"><file name="armeabi/libmsc.so" path="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/jniLibs/armeabi/libmsc.so"/></source></dataSet><dataSet config="debug"><source path="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/debug/jniLibs"/></dataSet></merger>

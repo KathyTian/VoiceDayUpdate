@@ -1,0 +1,7 @@
+#Thu Mar 09 17:52:56 EST 2017
+base.0=/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c2037ec845d5cbef1f96f8444d3af28750c6e23
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f6cd53e8bc61bd2a03f97d66fcd409febe78d284/classes.dex
+base.1=/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f6cd53e8bc61bd2a03f97d66fcd409febe78d284
+file.0=/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c2037ec845d5cbef1f96f8444d3af28750c6e23/classes.dex

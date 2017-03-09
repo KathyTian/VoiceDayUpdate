@@ -1,0 +1,1111 @@
+[
+    {
+        "outputFile": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5148,
+                        "endLine": 128,
+                        "endColumn": 19,
+                        "endOffset": 5282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5288,
+                        "endLine": 133,
+                        "endColumn": 19,
+                        "endOffset": 5450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 5851,
+                        "endLine": 150,
+                        "endColumn": 19,
+                        "endOffset": 5955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 5,
+                        "startOffset": 3414,
+                        "endLine": 77,
+                        "endColumn": 19,
+                        "endOffset": 3569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3575,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 3741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1901,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 2012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2018,
+                        "endLine": 31,
+                        "endColumn": 19,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endLine": 39,
+                    "endColumn": 19,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4905,
+                        "endLine": 119,
+                        "endColumn": 19,
+                        "endOffset": 5018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endLine": 43,
+                    "endColumn": 19,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5024,
+                        "endLine": 123,
+                        "endColumn": 19,
+                        "endOffset": 5142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endLine": 47,
+                    "endColumn": 19,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4267,
+                        "endLine": 105,
+                        "endColumn": 19,
+                        "endOffset": 4387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endLine": 51,
+                    "endColumn": 19,
+                    "endOffset": 1478
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4393,
+                        "endLine": 109,
+                        "endColumn": 19,
+                        "endOffset": 4510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1483,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 5603,
+                        "endLine": 142,
+                        "endColumn": 19,
+                        "endOffset": 5737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endLine": 59,
+                    "endColumn": 19,
+                    "endOffset": 1718
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 5743,
+                        "endLine": 146,
+                        "endColumn": 19,
+                        "endOffset": 5845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1723,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5456,
+                        "endLine": 137,
+                        "endColumn": 19,
+                        "endOffset": 5578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endLine": 71,
+                    "endColumn": 19,
+                    "endOffset": 2047
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3747,
+                        "endLine": 91,
+                        "endColumn": 19,
+                        "endOffset": 3954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2052,
+                    "endLine": 79,
+                    "endColumn": 19,
+                    "endOffset": 2245
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3960,
+                        "endLine": 99,
+                        "endColumn": 19,
+                        "endOffset": 4160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2250,
+                    "endLine": 99,
+                    "endColumn": 19,
+                    "endOffset": 2903
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2136,
+                        "endLine": 51,
+                        "endColumn": 19,
+                        "endOffset": 2808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 2908,
+                    "endLine": 119,
+                    "endColumn": 19,
+                    "endOffset": 3482
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2814,
+                        "endLine": 71,
+                        "endColumn": 19,
+                        "endOffset": 3407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3487,
+                    "endColumn": 47,
+                    "endOffset": 3530
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 47,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3535,
+                    "endColumn": 54,
+                    "endOffset": 3585
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 54,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 3590,
+                    "endColumn": 41,
+                    "endOffset": 3627
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 41,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 3632,
+                    "endColumn": 45,
+                    "endOffset": 3673
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 45,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 3678,
+                    "endColumn": 39,
+                    "endOffset": 3713
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 39,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 3718,
+                    "endColumn": 39,
+                    "endOffset": 3753
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 39,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 3758,
+                    "endColumn": 41,
+                    "endOffset": 3795
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 41,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3800,
+                    "endColumn": 38,
+                    "endOffset": 3834
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 38,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 3839,
+                    "endColumn": 39,
+                    "endOffset": 3874
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 39,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 3879,
+                    "endColumn": 39,
+                    "endOffset": 3914
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 39,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 3919,
+                    "endColumn": 56,
+                    "endOffset": 3971
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 56,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 3976,
+                    "endColumn": 55,
+                    "endOffset": 4027
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 55,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4032,
+                    "endColumn": 43,
+                    "endOffset": 4071
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 43,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4076,
+                    "endColumn": 51,
+                    "endOffset": 4123
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 51,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4128,
+                    "endColumn": 64,
+                    "endOffset": 4188
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 64,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4193,
+                    "endColumn": 60,
+                    "endOffset": 4249
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 60,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4254,
+                    "endColumn": 54,
+                    "endOffset": 4304
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1711,
+                        "endColumn": 54,
+                        "endOffset": 1761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4309,
+                    "endColumn": 53,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1823,
+                        "endColumn": 53,
+                        "endOffset": 1872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 54,
+                    "endOffset": 4413
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1767,
+                        "endColumn": 54,
+                        "endOffset": 1817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4418,
+                    "endColumn": 75,
+                    "endOffset": 4489
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1290,
+                        "endColumn": 75,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4494,
+                    "endColumn": 57,
+                    "endOffset": 4547
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1367,
+                        "endColumn": 57,
+                        "endOffset": 1420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4552,
+                    "endColumn": 88,
+                    "endOffset": 4636
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4815,
+                        "endColumn": 88,
+                        "endOffset": 4899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4641,
+                    "endColumn": 52,
+                    "endOffset": 4689
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4702,
+                        "endColumn": 52,
+                        "endOffset": 4750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 4694,
+                    "endColumn": 57,
+                    "endOffset": 4747
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4756,
+                        "endColumn": 57,
+                        "endOffset": 4809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 4752,
+                    "endColumn": 54,
+                    "endOffset": 4802
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1655,
+                        "endColumn": 54,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 4807,
+                    "endColumn": 91,
+                    "endOffset": 4894
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4609,
+                        "endColumn": 91,
+                        "endOffset": 4696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 4899,
+                    "endColumn": 72,
+                    "endOffset": 4967
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4535,
+                        "endColumn": 72,
+                        "endOffset": 4603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4972,
+                    "endColumn": 214,
+                    "endOffset": 5182
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 214,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 5187,
+                    "endColumn": 156,
+                    "endOffset": 5339
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 156,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 5344,
+                    "endColumn": 414,
+                    "endOffset": 5754
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 414,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 5759,
+                    "endColumn": 165,
+                    "endOffset": 5920
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 165,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 5925,
+                    "endColumn": 54,
+                    "endOffset": 5975
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 54,
+                        "endOffset": 1476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5980,
+                    "endColumn": 52,
+                    "endOffset": 6028
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 52,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6033,
+                    "endColumn": 56,
+                    "endOffset": 6085
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1482,
+                        "endColumn": 56,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 6090,
+                    "endColumn": 59,
+                    "endOffset": 6145
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1594,
+                        "endColumn": 59,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 6150,
+                    "endColumn": 82,
+                    "endOffset": 6228
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 4166,
+                        "endColumn": 82,
+                        "endOffset": 4244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 6233,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 6503
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 6508,
+                    "endLine": 170,
+                    "endColumn": 9,
+                    "endOffset": 7032
+                },
+                "from": {
+                    "file": "/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 6,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 9,
+                        "endOffset": 592
+                    }
+                }
+            }
+        ]
+    }
+]

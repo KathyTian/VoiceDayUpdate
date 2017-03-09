@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/libs/Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5b88f9b0f2ebaa459163f646654fbc1e45a34d4">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_ffc5c7a7f09da747e32b5a1422e0c1aa2dc81caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba4da48819a45dbc081f4640b1ee024bfbe3543d">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f6cd53e8bc61bd2a03f97d66fcd409febe78d284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/libs/emokitsdk4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de5e43d93c41b2f34ba9ffbd45f8bdce599c9150">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/2/emokitsdk4.3.1_fb313e32abc180b8fdafb736ebb9112f6e04df6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c5f7cfb40e2d4b28974ad0c798e6aed6ceccae9">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3087ee5990fc1a8d914231693a042955490afc4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_bc0111da9795cf94b468b5fb708672fda49aa90b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bab6db09865f3af8ac972b08eac5e7d402e10a8">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c2037ec845d5cbef1f96f8444d3af28750c6e23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/libs/Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5b88f9b0f2ebaa459163f646654fbc1e45a34d4">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_0c28751117c06bca66e60654699e874f9f47d074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6b02e2fafe7d98a8042c3a1585c2a3f3cf06542">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a196bffd0e650d56efca7459f0d1e7839ef7b3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/libs/Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5a75f4f67bab87e0e5b29087109f9a6110dfb36">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sunflower_f95bb1e84e421e0642dcab5e25bba241a3351992/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/libs/Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5a75f4f67bab87e0e5b29087109f9a6110dfb36">
+        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/hw5_custom/code/complicated/SpeechDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sunflower_64c9833b4d2c62f3a4cd40a15569ae24c50ad293/classes.dex" />
+    </item>
+
+</items>
